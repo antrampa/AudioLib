@@ -1,0 +1,3 @@
+C:\Users\ambitos\Downloads\AudioLib_src\WaveLibMixer\bin\Release\WaveLibMixer.dll
+C:\Users\ambitos\Downloads\AudioLib_src\WaveLibMixer\obj\Release\WaveLibMixer.csprojResolveAssemblyReference.cache
+C:\Users\ambitos\Downloads\AudioLib_src\WaveLibMixer\obj\Release\WaveLibMixer.dll

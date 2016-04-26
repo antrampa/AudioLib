@@ -1,0 +1,6 @@
+C:\Users\ambitos\Downloads\AudioLib_src\MixerTest\bin\Release\MixerTest.exe
+C:\Users\ambitos\Downloads\AudioLib_src\MixerTest\bin\Release\WaveLibMixer.dll
+C:\Users\ambitos\Downloads\AudioLib_src\MixerTest\obj\Release\MixerTest.csprojResolveAssemblyReference.cache
+C:\Users\ambitos\Downloads\AudioLib_src\MixerTest\obj\Release\MixerTest.MixerForm.resources
+C:\Users\ambitos\Downloads\AudioLib_src\MixerTest\obj\Release\MixerTest.csproj.GenerateResource.Cache
+C:\Users\ambitos\Downloads\AudioLib_src\MixerTest\obj\Release\MixerTest.exe
